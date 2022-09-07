@@ -6,7 +6,8 @@
         "chipFamily": "ESP32",
         "parts": [
           { "path": "firmware/v3,8,2.bin", "offset": 0 }
-        ]
+        ],
+        "new_install_skip_erase": true
       }
     ]
   }
