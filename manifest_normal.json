@@ -1,0 +1,13 @@
+{
+    "name": "v3,8,2",
+    "version": "3.8.2",
+    "builds": [
+      {
+        "chipFamily": "ESP32",
+        "parts": [
+          { "path": "firmware/v3,8,2.bin", "offset": 0 }
+        ]
+      }
+    ]
+  }
+  
